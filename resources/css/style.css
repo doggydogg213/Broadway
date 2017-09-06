@@ -18,3 +18,15 @@ h3 {
   text-align: center;
   color: White;
 }
+.supporting h2 {
+  font-size: 32px;
+}
+.supporting {
+  text-align: center;
+}
+.supporting h3 {
+  font-size: 23px;
+}
+.supporting-item p {
+  font-size: 14px;
+}
