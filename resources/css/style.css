@@ -30,3 +30,11 @@ h3 {
 .supporting-item p {
   font-size: 14px;
 }
+.hero h2 {
+  font-size: 23px;
+}
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: White;
+}
